@@ -1,0 +1,29 @@
+{
+  "name": "twitter-favorites-bot",
+  "version": "1.0.0",
+  "description": "Node.js Twitter Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chilupa/twitter-favorites-bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "twitterapi",
+    "nodejs",
+    "favorites",
+    "bot"
+  ],
+  "author": "Pavan Chilukuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chilupa/twitter-favorites-bot/issues"
+  },
+  "homepage": "https://github.com/chilupa/twitter-favorites-bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
